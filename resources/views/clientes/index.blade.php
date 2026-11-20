@@ -50,7 +50,7 @@
     <div class="card p-3">
         <div>
             <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                Nuevo Cliene / {{$clientes_count}}
+                Nuevo Cliente / {{$clientes_count}}
             </button>
 
             <!-- Modal -->
